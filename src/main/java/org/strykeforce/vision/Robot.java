@@ -3,7 +3,7 @@
  * Thursday, October 12, 2017
  */
 
-package org.strykeforce.quickstart;
+package org.strykeforce.vision;
 
 import edu.wpi.first.wpilibj.CameraServer;
 import edu.wpi.first.wpilibj.TimedRobot;

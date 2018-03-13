@@ -1,4 +1,4 @@
-package org.strykeforce.quickstart;
+package org.strykeforce.vision;
 
 import java.io.File;
 import java.io.FileWriter;
